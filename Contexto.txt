@@ -1,0 +1,19 @@
+El concesionario iCar Plus, necesita de una aplicación web para el 
+control del inventario de los vehículos y repuestos que tienen en 
+existencia, clientes y mecánicos, los registros deben de tener una 
+descripción, imagen, marca, modelo del vehículo, tipo, año, clasificación, 
+repuesto asignado o cambiado, entre otros datos importantes.
+
+La aplicación debe de poder mostrar diversos reportes en PDF.
+
+Cada registro debe de tener su propio Código de Barras o QR.
+
+Para el diseño del FrontEnd se puede realizar en Bootstrap, Materialize, Ajax, JS, Angular o React.
+
+Para la programación del BackEnd se debe de realizar en PHP.
+
+La base de datos debe de ser realizada en MySQL.
+
+Subir el código a GitHub, subir el proyecto terminado a un hosting y enviar ambos enlaces al correo juan.medina@urbe.edu.ve
+
+Fecha de entrega el 19-11-2023 a las 11:59pm.
